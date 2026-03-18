@@ -6,3 +6,5 @@
 4. Pueblo Paleta
 5. Springfield
 6. Narnia
+7. Atlantis
+8. Planeta yautjas
