@@ -4,6 +4,4 @@
 2. Metrópolis
 3. Hell's Kitchen
 4. Pueblo Paleta
-5. Springfield
-6. Narnia
-7. Atlantis
+
